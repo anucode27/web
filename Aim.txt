@@ -1,0 +1,3 @@
+c) Create links on the words e.g. Wi-Fi and LAN to link them to Wikipedia pages.
+d) Insert an image and create a link such that clicking on image takes user to other page.
+e) Change the background color of the page; At the bottom create a link to take user to the top of the page
